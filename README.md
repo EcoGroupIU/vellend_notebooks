@@ -53,7 +53,7 @@ everything that they depend on. It will print lots of stuff and ask you to say
 
 Also yes, the `numpy` core team are assholes.
 
-### Openning the notebooks
+### Opening the notebooks
 At this point I think you can just click on them??
 
 I usually do it through the command line by typing:
